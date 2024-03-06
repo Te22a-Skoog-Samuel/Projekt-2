@@ -15,6 +15,7 @@ main{
 display: flex;
 flex-direction: column;
 background-color: rgba(166, 116, 79, 1);
+margin-top: 10px;
 }
 
 article{
@@ -34,11 +35,9 @@ p{
 
 }
 
-@media  only  screen and (min-width: 641px) and (max-width: 1007px) {
 
+@media screen and (min-width: 1008px){
 
-
-
-
+    
 
 }
